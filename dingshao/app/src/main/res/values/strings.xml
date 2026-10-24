@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">盯梢岛</string>
+    <string name="a11y_label">盯梢岛</string>
+    <string name="a11y_desc">盯梢岛只用它知道你此刻停在哪个 App，好在待太久时用原子岛提醒你。不读取屏幕内容，不联网，不上传任何数据。</string>
+</resources>
